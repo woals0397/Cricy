@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Cricy
+Comment=Cricy P2P Cryptocurrency
+Exec=cricy-qt %u
+Terminal=false
+Type=Application
+Icon=bitcoin128
+MimeType=x-scheme-handler/cricy;
+Categories=Office;Finance;
+Name[en_US]=cricy-qt.desktop
